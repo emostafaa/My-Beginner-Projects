@@ -31,4 +31,4 @@ pip install pyfiglet termcolor
 ---
 *Feel free to star this repository if you like it, or leave some feedback if you have ideas on how I can make it even better!*
 
-NOTE: this README has been written by AI but the code i wrote it my self
+NOTE: this README has been written by AI but the code i wrote it my self.
